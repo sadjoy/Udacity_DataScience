@@ -41,13 +41,13 @@ Courses:
 
   3.1 What is EDA?
   
-  3.1 R Basics
+  3.2 R Basics
   
-  3.1 Explore One Variable
+  3.3 Explore One Variable
   
-  3.1 Explore Two Variables
+  3.4 Explore Two Variables
   
-  3.1 Explore Many Variables
+  3.5 Explore Many Variables
   
   Assignment: Explore and Summarize Data
 
@@ -56,15 +56,15 @@ Courses:
 
   4.1 Welcome to Machine Learning
   
-  4.1 Naive Bayes
+  4.2 Naive Bayes
   
-  4.1 Support Vector Machines
+  4.3 Support Vector Machines
   
-  4.1 Decision Trees
+  4.4 Decision Trees
   
-  4.1 Choose your own Algorithm
+  4.5 Choose your own Algorithm
   
-  4.1 Datasets and Questions
+  4.6 Datasets and Questions
   
   Assignment: Identifying Fraud from Enron Email
 
@@ -73,21 +73,21 @@ Courses:
 
   5.1 Programming in R
   
-  5.1 Data Analysis
+  5.2 Data Analysis
   
-  5.1 Regression
+  5.3 Regression
   
   Assignment: Make Effective Data Visualization
 
 
   6. Intro to Hadoop and MapReduce
 
-  5.1 Big Data
+  6.1 Big Data
   
-  5.1 HDFS and MapReduce
+  6.2 HDFS and MapReduce
   
-  5.1 MapReduce code
+  6.3 MapReduce code
   
-  5.1 MapReduce Design Patterns
+  6.4 MapReduce Design Patterns
   
 
