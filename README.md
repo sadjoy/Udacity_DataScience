@@ -4,7 +4,8 @@ About
 This repository contains project work for Udacity's Data Science related courses
 
 Courses:
-1. Intro to Data Science
+  
+  1. Intro to Data Science
 
   1.1 Introduction to Data Science
   
@@ -16,10 +17,10 @@ Courses:
   
   1.5 MapReduce
   
-Assignment: Analyzing the NYC Subway Dataset
+  Assignment: Analyzing the NYC Subway Dataset
 
 
-2. Data Wrangling with MongoDB
+  2. Data Wrangling with MongoDB
 
   2.1 Data Extraction Fundamentals
   
@@ -33,10 +34,10 @@ Assignment: Analyzing the NYC Subway Dataset
   
   2.6 Case Study - OpenStreetMap Data
   
-Assignment: Data Wrangle OpenStreetMaps Data
+  Assignment: Data Wrangle OpenStreetMaps Data
 
   
-3. Data Analysis with R
+  3. Data Analysis with R
 
   3.1 What is EDA?
   
@@ -48,10 +49,10 @@ Assignment: Data Wrangle OpenStreetMaps Data
   
   3.1 Explore Many Variables
   
-Assignment: Explore and Summarize Data
+  Assignment: Explore and Summarize Data
 
 
-4. Intro to Machine Learning
+  4. Intro to Machine Learning
 
   4.1 Welcome to Machine Learning
   
@@ -65,10 +66,10 @@ Assignment: Explore and Summarize Data
   
   4.1 Datasets and Questions
   
-Assignment: Identifying Fraud from Enron Email
+  Assignment: Identifying Fraud from Enron Email
 
 
-5. Data Analysis and Visualization
+  5. Data Analysis and Visualization
 
   5.1 Programming in R
   
@@ -76,10 +77,10 @@ Assignment: Identifying Fraud from Enron Email
   
   5.1 Regression
   
-Assignment: Make Effective Data Visualization
+  Assignment: Make Effective Data Visualization
 
 
-6. Intro to Hadoop and MapReduce
+  6. Intro to Hadoop and MapReduce
 
   5.1 Big Data
   
